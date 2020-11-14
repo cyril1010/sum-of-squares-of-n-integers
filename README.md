@@ -1,0 +1,2 @@
+# sum-of-squares-of-n-integers
+PROGRAM TO FIND THE SUM OF SQUARES OF N NATURAL NUMBERS
